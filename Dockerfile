@@ -11,5 +11,7 @@ RUN ./install_scadabr.sh
 WORKDIR /
 RUN rm -r /tmp/ScadaBR_Installer
 
+COPY ./apache-tomcat-6.0.53/ /opt/tomcat6/apache-tomcat-6.0.53/ 
+
 #Start the server
 CMD sudo /opt/tomcat6/apache-tomcat-6.0.53/bin/startup.sh && sleep infinity

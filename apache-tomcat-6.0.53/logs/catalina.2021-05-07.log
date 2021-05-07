@@ -1,0 +1,30 @@
+May 7, 2021 7:12:05 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /opt/java/jre1.6.0_45/lib/amd64/server:/opt/java/jre1.6.0_45/lib/amd64:/opt/java/jre1.6.0_45/../lib/amd64:/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+May 7, 2021 7:12:05 PM org.apache.coyote.http11.Http11Protocol init
+INFO: Initializing Coyote HTTP/1.1 on http-9090
+May 7, 2021 7:12:05 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 342 ms
+May 7, 2021 7:12:05 PM org.apache.catalina.core.StandardService start
+INFO: Starting service Catalina
+May 7, 2021 7:12:05 PM org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.53
+May 7, 2021 7:12:05 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive ScadaBR.war
+May 7, 2021 7:12:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory examples
+May 7, 2021 7:12:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory ROOT
+May 7, 2021 7:12:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory manager
+May 7, 2021 7:12:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory host-manager
+May 7, 2021 7:12:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory docs
+May 7, 2021 7:12:10 PM org.apache.coyote.http11.Http11Protocol start
+INFO: Starting Coyote HTTP/1.1 on http-9090
+May 7, 2021 7:12:10 PM org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+May 7, 2021 7:12:10 PM org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/9  config=null
+May 7, 2021 7:12:10 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 5117 ms

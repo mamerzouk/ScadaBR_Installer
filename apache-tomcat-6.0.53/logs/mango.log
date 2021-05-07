@@ -1,0 +1,1 @@
+WARN  2021-05-07 19:12:10,110 (org.directwebremoting.util.CommonsLoggingOutput.warn:59) - Clash of converters for br.org.scadabr.OPCItem. Using org.directwebremoting.convert.BeanConverter in place of org.directwebremoting.convert.BeanConverter 
